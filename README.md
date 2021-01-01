@@ -7,7 +7,7 @@ In August I joined the Technigo coding boot camp: A 24-week fast-paced remote bo
 * I am currently working on my web development skills: **JavaScript, React, HTML5, CSS, MongoDB and Node.js**.
 * I have over 8 years experience working in IT and 1 year working in **web management** 
 * **Personal development** is important to me
-* Previously I have worked in **tech support** and I like to troubleshoot
+* Previously I have worked in **tech support** and I enjoy troubleshooting problems
 * My favourite stack is: **React** 💥
 * I like to share my coding projects on my **[Portfolio - Jamie Cook](https://jamiecook.netlify.app/)**
 * Contact me on **[LinkedIn - Jamie Cook](https://www.linkedin.com/in/jamiepcook)**
