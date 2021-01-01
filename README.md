@@ -1,6 +1,6 @@
 ### Hi there, I'm Jamie 👋
 
-#### Frontend developer with a view on becoming a full-stack - living in Stockholm
+#### Frontend developer with a view on becoming a full-stack - living in Sweden
 
 In August 2020 I joined the @Technigo coding bootcamp: A 24-week fast-paced remote boot-camp and graduate in February 2021. I previously worked as a web management assistant and wanted to increase my knowledge of developement. I like to write clean, well structured code and I love learning new things. Here are some fun facts about me:
 
