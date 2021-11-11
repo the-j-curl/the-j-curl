@@ -5,7 +5,7 @@
 In August 2020 I joined the Technigo coding boot-camp: A 24-week fast-paced remote boot-camp. I previously worked as a web management assistant and wanted to increase my knowledge of the frontend world. I like to write clean, reusable code and I enjoying learning new things. Here are some fun facts about me:
 
 * "Next up" on my list is some server-side rendering, courtesy of **Next.js** ▶
-* I recently completed two internships, gaining hands-on experience on live applications. Learning **TypeScript, GraphQL and SCSS** along the way.
+* I recently completed two internships, gaining hands-on experience on live applications. Learning **TypeScript, GraphQL and SCSS** along the way 🤓
 * I graduated from the Fall 20/21 boot-camp, gaining skills in: **JavaScript, React, HTML5, Redux, CSS, Express.js, MongoDB and Node.js** 🎓
 * I have over 9 years experience working in **IT service management** and **web management** .
 * **Personal development** is important to me.
